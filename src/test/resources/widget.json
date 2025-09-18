@@ -1,0 +1,10 @@
+{
+  "debug": "on",
+  "image": {
+  "src": "Images/Sun.png",
+  "Name": "sun1",
+  "hOffset": 250,
+  "vOffset": 250,
+  "alignment": "center"
+  }
+}
